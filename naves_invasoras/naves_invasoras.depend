@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1604572829 source:c:\users\aleja\desktop\proyecto\naves_invasoras\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+	<string>
+	<iostream>
+	<thread>
+	<mutex>
+
+1605784243 source:c:\users\aleja\desktop\space-invaders\naves_invasoras\main.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+	<string>
+	<iostream>
+	<thread>
+	<mutex>
+
