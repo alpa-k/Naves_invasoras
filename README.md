@@ -37,13 +37,22 @@ _Este proyecto está desarrollado para desplegarse en un Sistema Operativo de Mi
 
 ### Bibliografía:
 
-*[Curso de aprendizaje en C++](https://www.youtube.com/watch?v=dJzLmjSJc2c&feature=youtu.be&ab_channel=Programaci%C3%B3nATS)
-*[C++ w3school](https://www.w3schools.com/cpp/)
-*[Apis de C++](http://conclase.net/winapi)
-*[Excepciones en C++](https://en.cppreference.com/w/cpp/error/exception)
-*[Defines en C++](https://docs.microsoft.com/es-es/cpp/preprocessor/hash-define-directive-c-cpp?view=msvc-160&viewFallbackFrom=vs-2019)
-*[Librería Allegro](https://liballeg.org/)
+- [Curso de aprendizaje en C++](https://www.youtube.com/watch?v=dJzLmjSJc2c&feature=youtu.be&ab_channel=Programaci%C3%B3nATS)
+- [C++ w3school](https://www.w3schools.com/cpp/)
+- [Apis de C++](http://conclase.net/winapi)
+- [Excepciones en C++](https://en.cppreference.com/w/cpp/error/exception)
+- [Defines en C++](https://docs.microsoft.com/es-es/cpp/preprocessor/hash-define-directive-c-cpp?view=msvc-160&viewFallbackFrom=vs-2019)
+- [Librería Allegro](https://liballeg.org/)
 
 ## Visualización Final:
 
 _Podrás visualizar cómo es gráficamente el proyecto en sí, mediante unas capturas en la carpeta con la ruta "Naves_invasoras/img_juegoFinal"_
+
+## Desarrollo a Futuro:
+
+_Las tareas a desarrollar a futuro en este proyecto son:_
+
+  -Implementar la librería Allegro
+  -Uso de imágenes con BitMap
+  -Añadir sonidos.
+  
