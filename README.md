@@ -52,7 +52,7 @@ _Podrás visualizar cómo es gráficamente el proyecto en sí, mediante unas cap
 
 _Las tareas a desarrollar a futuro en este proyecto son:_
 
-  -Implementar la librería Allegro
-  -Uso de imágenes con BitMap
+  -Implementar la librería Allegro.
+  -Uso de imágenes con BitMap.
   -Añadir sonidos.
   
